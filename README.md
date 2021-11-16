@@ -1,4 +1,5 @@
 ### Hi there 👋
+telegram: ![abdulloh76](t.me/abdulloh76)
 
 ![Abdullokh's github stats](https://github-readme-stats.vercel.app/api?username=abdulloh76&show_icons=true&theme=tokyonight&count_private=true)
 <!--
